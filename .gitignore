@@ -1,0 +1,18 @@
+# Exclude large files and temporary data
+attached_assets/
+*.pdf
+*.docx
+*.zip
+*.xlsx
+*.xls
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.DS_Store
+node_modules/
+*.log
+.streamlit/secrets.toml
+push_to_github*.mjs
+push_to_github*.js
